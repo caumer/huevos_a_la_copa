@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "huevos_a_la_copa/1.0.0": {
+        "runtime": {
+          "huevos_a_la_copa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "huevos_a_la_copa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

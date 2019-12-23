@@ -1,0 +1,11 @@
+C:\Users\SISTEMAS\source\repos\huevos_a_la_copa\huevos_a_la_copa\bin\Debug\netcoreapp3.1\huevos_a_la_copa.exe
+C:\Users\SISTEMAS\source\repos\huevos_a_la_copa\huevos_a_la_copa\bin\Debug\netcoreapp3.1\huevos_a_la_copa.deps.json
+C:\Users\SISTEMAS\source\repos\huevos_a_la_copa\huevos_a_la_copa\bin\Debug\netcoreapp3.1\huevos_a_la_copa.runtimeconfig.json
+C:\Users\SISTEMAS\source\repos\huevos_a_la_copa\huevos_a_la_copa\bin\Debug\netcoreapp3.1\huevos_a_la_copa.runtimeconfig.dev.json
+C:\Users\SISTEMAS\source\repos\huevos_a_la_copa\huevos_a_la_copa\bin\Debug\netcoreapp3.1\huevos_a_la_copa.dll
+C:\Users\SISTEMAS\source\repos\huevos_a_la_copa\huevos_a_la_copa\bin\Debug\netcoreapp3.1\huevos_a_la_copa.pdb
+C:\Users\SISTEMAS\source\repos\huevos_a_la_copa\huevos_a_la_copa\obj\Debug\netcoreapp3.1\huevos_a_la_copa.csprojAssemblyReference.cache
+C:\Users\SISTEMAS\source\repos\huevos_a_la_copa\huevos_a_la_copa\obj\Debug\netcoreapp3.1\huevos_a_la_copa.AssemblyInfoInputs.cache
+C:\Users\SISTEMAS\source\repos\huevos_a_la_copa\huevos_a_la_copa\obj\Debug\netcoreapp3.1\huevos_a_la_copa.AssemblyInfo.cs
+C:\Users\SISTEMAS\source\repos\huevos_a_la_copa\huevos_a_la_copa\obj\Debug\netcoreapp3.1\huevos_a_la_copa.dll
+C:\Users\SISTEMAS\source\repos\huevos_a_la_copa\huevos_a_la_copa\obj\Debug\netcoreapp3.1\huevos_a_la_copa.pdb
